@@ -1,0 +1,17 @@
+# Environment variables and secrets
+.env
+
+# Spotify authentication cache
+.cache
+.cache-*
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# PyCharm settings
+.idea/
